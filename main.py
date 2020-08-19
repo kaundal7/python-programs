@@ -1,5 +1,5 @@
 def main():
-    print("Hello world")
+    print("Hello kaundal")
     details()
     books()
     product(34,67)
@@ -15,4 +15,5 @@ def details():
     print("DOB: 7 January, 1999")
 
 if __name__ == "__main__":
+    print("Starting the function")
     main()
