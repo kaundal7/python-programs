@@ -1,5 +1,10 @@
 def main():
     print("Hello world")
+    details()
+    books()
+    
+def books():
+    print("Fav. book: Can't hurt me")
     
 def details():
     print("Author: Prashant Kaundal")
